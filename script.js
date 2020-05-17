@@ -25,7 +25,7 @@ $(window).on("load", function () {
   });
   if ($(window).width() <= 768) {
     $(".head_navi_area ul li > a").click(function () {
-      $(".burger-btn").removeClass("close");
+      $(".burger_btn").removeClass("close");
       $(".head_navi_area").removeClass("clicked");
       $("body").removeClass("noscroll");
     });
