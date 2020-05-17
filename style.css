@@ -1085,7 +1085,6 @@ footer {
   }
   .foot_item {
     flex-wrap: wrap;
-    margin: 60px 0 0;
   }
   .foot_item li.logo {
     margin-right: 10px;
