@@ -374,7 +374,7 @@ main {
   }
   100% {
     transform: translateX(100%);
-    opacity: 0;
+    opacity: .7;
   }
 }
 @keyframes text_show {
