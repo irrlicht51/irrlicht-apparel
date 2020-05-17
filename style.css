@@ -404,9 +404,12 @@ main {
   width: 100%;
   margin: 0 auto;
 }
-section#news,
+section#news {
+  padding: 100px 0 100px;
+  background-color: #fff;
+}
 section#features {
-  padding: 85px 0 100px;
+  padding: 0 0 100px;
   background-color: #fff;
 }
 .news_wrap {
