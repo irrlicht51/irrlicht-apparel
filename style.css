@@ -942,8 +942,7 @@ footer {
     transform: none;
     padding: 5vh 0 5vh 4vw;
   }
-  section#news,
-  section#features {
+  section#news {
     padding: 60px 0;
   }
   .news_wrap {
